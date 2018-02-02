@@ -11,6 +11,8 @@ After forking to your own github org, do the following steps to get started:
 $ git clone https://github.com/hongquanjs95/CRM.git
 $ cd  CRM
 $ git status (check options your git)
+
+## step into use Git bash
 $ git add * (add all to commit)
 $ git add [package] (add 1 file)
 $ git rm -f [package] (delete a file)
@@ -25,10 +27,10 @@ $ git tag v1.0 (tag)
 $ git tag -a v1.0 -m "Version 1.0"
 $ git push --tags
 $ git show v1.0 (show with tag v1.0)
-
 $ git log (show log)
 $ git log -p (show full log) --author (by use) --grep (by key) --until (before day) --since, --after (beetween day)
-exp: git log --author=a@b.com --pretty="%tag"  
+exp: git log --author=a@b.com --pretty="%tag"
+
 ## step into local expo (in use)
 $ npm i -g create-react-native-app
 $ create-react-native-app my-project

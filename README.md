@@ -1,20 +1,16 @@
-# NativeBase KitchenSink v2.3.5
-An example app with all the UI components of NativeBase
+# React Native CRM v0.0.1
+An app with all of React Native
 
-> **NativeBase-KitchenSink** comes in three forms of app for you!
->1. Pure React Native App with `react-navigation` on branch **[master](https://github.com/GeekyAnts/NativeBase-KitchenSink)**
->2. Pure React Native App with `RNRF` on branch **[RNRF](https://github.com/GeekyAnts/NativeBase-KitchenSink/tree/RNRF)**
->3. An Expo app with `CRNA` and `react-navigation` on branch **[CRNA](https://github.com/GeekyAnts/NativeBase-KitchenSink/tree/CRNA)**
-
->Find the installation guide in `ReadMe` of appropriate branches
+> **PARACEL-CRM** comes in three forms of app for you!
+>Find the installation guide in `CONTRIBUTING` of appropriate branches
 
 ## Demo
 
-https://expo.io/@geekyants/nativebasekitchensink
+https://expo.io/hongquanjs95/CRM
 
 iOS | Android
  :--:| :-----:
- ![ios-demo](https://github.com/GeekyAnts/NativeBase-KitchenSink/raw/master/screenshots/iOS.gif) | ![android-demo](https://github.com/GeekyAnts/NativeBase-KitchenSink/raw/master/screenshots/Android.gif)
+ ![ios-demo]() | ![android-demo]()
 
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 

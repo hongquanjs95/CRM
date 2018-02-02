@@ -1,0 +1,26 @@
+{
+  "expo": {
+	"name": "CRM",
+	"sdkVersion": "25.0.0",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo.png",
+    "slug": "CRM",
+    "splash": {
+      "image": "./assets/bg_screen6.jpg",
+      "backgroundColor": "#FFFFFF",
+      "resizeMode": "cover"
+    },
+    "primaryColor": "#55efc4",
+    "packagerOpts": {
+      "assetExts": [
+        "ttf"
+      ]
+    },
+    "androidStatusBarColor": "#00b894",
+    "androidStatusBar": {
+      "barStyle": "light-content",
+      "backgroundColor": "#00b894"
+    }
+  }
+}
